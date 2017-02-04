@@ -1,5 +1,5 @@
 # Calliope Mini Beispiele
-Code examples for Calliope Mini Computer https://www.calliope.cc
+Codebeispiele für den Calliope Mini Computer https://www.calliope.cc
 
 Autor: Boris Crismancich <boris.crismancich@erminas.de>
 
