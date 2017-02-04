@@ -2,7 +2,9 @@
 Code examples for Calliope Mini Computer https://www.calliope.cc
 
 Autor: Boris Crismancich <boris.crismancich@erminas.de>
+
 Datum: 04.02.2017
+
 Lizenz: CC BY-SA 3.0 de https://creativecommons.org/licenses/by-sa/3.0/de/
 
 # Analg Eingang
